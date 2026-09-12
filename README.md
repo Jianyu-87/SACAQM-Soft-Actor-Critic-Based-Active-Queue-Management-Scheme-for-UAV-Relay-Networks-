@@ -1,6 +1,6 @@
 # SACAQM — Code for the paper
 
-    "SACAQM: Soft Actor-Critic-Based Active Queue Management Scheme for UAV Relay Networks"
+Weihua Qian, Jianyu Cao*, Ao Fang, Lianhai Liu. SACAQM: Soft Actor-Critic-Based Active Queue Management Scheme for UAV Relay Networks. IET Communications. 2026, 20(1): e70217. DOI: 10.1049/cmu2.70217.
     
 
 Reinforcement-learning-based active queue management (AQM) for a
